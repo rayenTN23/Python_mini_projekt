@@ -1,2 +1,2 @@
 # Python_mini_projekt
-the mini projects in the Umschulung
+the mini projects in the "Umschulung"
